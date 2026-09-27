@@ -3,3 +3,4 @@ langgraph
 langchain-tavily
 fastapi
 langchain-groq
+uvicorn[standard]
