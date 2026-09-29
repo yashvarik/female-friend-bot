@@ -146,4 +146,4 @@ if prompt:
 
         placeholder.markdown(full_text or "_(no response — try rephrasing)_")
 
-    st.session_statse.messages.append({"role": "assistant", "content": full_text})
+    st.session_state.messages.append({"role": "assistant", "content": full_text})
