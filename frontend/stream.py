@@ -88,7 +88,7 @@ st.markdown(
     }
     .stChatMessage, .stChatMessage p, .stChatMessage li, .stChatMessage span {
         border-radius: 14px;
-        color: #2b2b2b !important;
+        color: white !important;
     }
     h1 {color: #b5406b;}
     .subtitle {color: #7a7a7a; font-size: 0.95rem; margin-top: -10px;}
